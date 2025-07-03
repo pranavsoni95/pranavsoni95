@@ -1,10 +1,15 @@
-- 👋 Hi, I’m Pranav Soni
-- 👀 I’m interested in Full Stack Development, particularly the MERN stack and Data Structures and Algorithms.
-- 🌱 I’m currently learning advanced React, Node.js backend, and improving my problem-solving skills with DSA.
-- 💞️ I’m looking to collaborate on open-source projects or innovative web applications that leverage the MERN stack.
-- 📫 You can reach me via email at pranavsoni9596@gmail.com.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy playing chess
+# 👋 Hi, I'm Pranav Soni
+
+🎯 **Aspiring Data Analyst** | 📊 Passionate about data-driven decisions | 🧠 Curious learner
+
+---
+
+## 🔍 About Me
+
+- 🎓 Final-year B.Tech student (Information Technology) @ JSS Academy of Technical Education, Noida
+- 💡 Strong interest in data analysis, business insights, and data visualization
+- 🔧 Skilled in SQL, Python, Excel, Power BI, Tableau, and data storytelling
+- 📈 Currently working on real-world data projects to sharpen my analytical thinking
 
 <!---
 pranavsoni95/pranavsoni95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
